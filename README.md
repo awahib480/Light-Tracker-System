@@ -9,3 +9,6 @@ A light tracker system modeled in Proteus simulation software using four Light D
 
 # Code
 Code was written in Embedded C
+
+# Compatibility
+Simulation file is compatible with Proteus software
